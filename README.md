@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#API USED
+## API USED
 
 Para consultar letra de canciones:
 https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search?console=1
