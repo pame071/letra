@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#API USED
+
+Para consultar letra de canciones:
+https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search?console=1
+
+Para consultar autor:
+https://theaudiodb.com/
+
+Ninguna de las APIS requiere crear cuenta
+
 ## Available Scripts
 
 In the project directory, you can run:
